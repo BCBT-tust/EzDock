@@ -139,7 +139,7 @@ The tool generates the following outputs:
 If you use this tool in your research, please cite:
 
 ```
-[Citation information to be added]
+[To be published]
 ```
 
 ## 📄 License
