@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/Python-3.6+-orange.svg" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Google_Colab-yellow.svg" alt="Platform">
 </p>
