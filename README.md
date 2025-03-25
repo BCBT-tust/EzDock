@@ -37,6 +37,7 @@ The tool includes the following Jupyter notebooks:
 ### Google Colab Version
 
 Access the tool on Google Colab: [High-Throughput-Molecular-Docking](https://colab.research.google.com/drive/1rPRKJnHsLlgjsvF4Tx_amXR0nKgGejCM?usp=sharing)
+We also provide a Chinese version: [High-Throughput-Molecular-Docking-Chinese Version](https://colab.research.google.com/drive/1Xl7yiv7bxn4sN7SOX1X7HntDvP9g-54Y?usp=sharing)
 
 Follow these steps to use the tool:
 
