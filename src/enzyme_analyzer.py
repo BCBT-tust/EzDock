@@ -1,8 +1,3 @@
-"""
-Enzyme Engineering Docking Analysis & ML Prediction Module
-Analyze docking results using dual ML models for enzyme engineering
-"""
-
 import os
 import zipfile
 import numpy as np
