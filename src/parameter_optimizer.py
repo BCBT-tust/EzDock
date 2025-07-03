@@ -1,8 +1,3 @@
-"""
-Docking Parameter Optimizer Module
-Advanced parameter optimization for molecular docking
-"""
-
 import os
 import numpy as np
 import pandas as pd
