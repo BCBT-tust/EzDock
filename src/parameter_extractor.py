@@ -1,8 +1,3 @@
-"""
-Protein Docking Parameter Extraction Module
-Extracts docking parameters from protein PDB files
-"""
-
 import os
 import re
 import zipfile
