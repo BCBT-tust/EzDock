@@ -1,0 +1,36 @@
+# Core scientific computing
+numpy>=1.19.0
+pandas>=1.3.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Plotting and visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Machine learning and optimization
+numba>=0.56.0
+scipy>=1.7.0
+
+# File handling and utilities
+pathlib2>=2.3.5; python_version<"3.4"
+zipfile36>=0.1.3; python_version<"3.6"
+
+# Progress bars and UI
+tqdm>=4.60.0
+
+# Molecular data handling (optional)
+rdkit-pypi>=2021.9.1; extra == "chemistry"
+biopython>=1.78; extra == "chemistry"
+openbabel>=3.1.1; extra == "chemistry"
+
+# Development dependencies (optional)
+pytest>=6.0; extra == "dev"
+pytest-cov>=2.0; extra == "dev"
+black>=21.0; extra == "dev"
+flake8>=3.8; extra == "dev"
+mypy>=0.900; extra == "dev"
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0; extra == "notebooks"
+ipywidgets>=7.6.0; extra == "notebooks"
