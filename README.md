@@ -145,8 +145,6 @@ No installation required - runs entirely in your browser.
 
 If you use EzDock in your research, please cite:
 
-```
-
 ## 🏛️ Institution
 
 **Tianjin University of Science and Technology**  
