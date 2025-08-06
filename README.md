@@ -1,14 +1,14 @@
-# EzDock: An end-to-end molecular docking platform
+# ZymEvoDock: An end-to-end molecular docking platform
 
 [![Platform](https://img.shields.io/badge/Platform-Google_Colab-yellow)](https://colab.research.google.com/drive/1yr9DkpHFfzAHju6eyEMkuKQHHxfmNqYr?usp=sharing)
 [![License](https://img.shields.io/badge/License-Research_Free-orange)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/your-repo/ezdock)
 
-**EzDock** is a comprehensive, automated molecular docking platform designed for enzyme engineering research. It transforms complex multi-software workflows into simple, automated processes that run entirely in Google Colab.
+**ZymEvoDock** is a comprehensive, automated molecular docking platform designed for enzyme engineering research. It transforms complex multi-software workflows into simple, automated processes that run entirely in Google Colab.
 
 ## 🚀 Quick Start
 
-**Try EzDock now:** [Google Colab Link](https://colab.research.google.com/drive/1yr9DkpHFfzAHju6eyEMkuKQHHxfmNqYr?usp=sharing)
+**Try ZymEvoDock now:** [Google Colab Link](https://colab.research.google.com/drive/1yr9DkpHFfzAHju6eyEMkuKQHHxfmNqYr?usp=sharing)
 
 No installation required - runs entirely in your browser.
 
@@ -61,7 +61,7 @@ No installation required - runs entirely in your browser.
 
 ## 📈 Performance Metrics
 
-| Metric | Traditional Approach | EzDock |
+| Metric | Traditional Approach | ZymEvoDock |
 |--------|---------------------|--------|
 | Setup Time | Hours | **2-3 minutes** |
 | File Processing | Manual, sequential | **Automated batch** |
@@ -143,7 +143,7 @@ No installation required - runs entirely in your browser.
 
 ## 📄 Citation
 
-If you use EzDock in your research, please cite:
+If you use ZymEvoDock in your research, please cite:
 
 ## 🏛️ Institution
 
