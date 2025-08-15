@@ -136,8 +136,8 @@ No installation required - runs entirely in your browser.
 
 ## 🎯 Target Applications
 
-- **Drug Discovery**: Virtual screening campaigns
 - **Enzyme Engineering**: Rational design guidance
+- **Drug Discovery**: Virtual screening campaigns
 - **Academic Research**: Teaching and learning molecular docking
 - **Industrial Applications**: High-throughput analysis
 
@@ -158,7 +158,7 @@ For questions and support:
 
 ## 🔄 Updates
 
-- **v1.0** (2025.06): Initial release with complete workflow
+- **v1.0** (2025.08): Initial release with complete workflow
 - Dual ML models for enzyme engineering
 - Multi-format support and parallel processing
 
